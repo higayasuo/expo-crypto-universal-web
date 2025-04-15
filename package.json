@@ -1,6 +1,6 @@
 {
   "name": "expo-crypto-universal-web",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "description": "Web implementation of expo-crypto-universal",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -45,6 +45,6 @@
   },
   "dependencies": {
     "base64-js": "^1.5.1",
-    "expo-crypto-universal": "^0.2.2"
+    "expo-crypto-universal": "^0.2.6"
   }
 }
